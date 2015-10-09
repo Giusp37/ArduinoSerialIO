@@ -8,7 +8,7 @@ package arduinoserialio;
 // SPIEGAZIONE: http://en.wikibooks.org/wiki/Serial_Programming/Serial_Java
 /**
  *
- * @author Gio
+ * @author Comparin Giuseppe
  */
 import gnu.io.CommPortIdentifier;
 import gnu.io.SerialPort;
